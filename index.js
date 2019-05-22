@@ -1,8 +1,8 @@
 //var katzDeliLine = [];
 
-function takeANumber(katzDeliLine, name){
-    katzDeliLine.push(name);
-  return ("Welcome, " + name + ". You are number " + katzDeliLine.length + " in line.");
+function takeANumber(katzDeliLine){
+  let currentTicketNumber = n
+  return ("Welcome, you are ticket number" + + ". You are number " + katzDeliLine.length + " in line.");
 }
 
 function nowServing(katzDeliLine){
